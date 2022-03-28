@@ -38,6 +38,9 @@ Enemy Specs:
    - Ranged, mid damage
    - Boss, twice the size, more life, heavy damage
 
+### Youtube video
+[![Golem House Programming Test](https://img.youtube.com/vi/QxO4jKxNJDI/0.jpg)](https://www.youtube.com/watch?v=QxO4jKxNJDI)
+
 
 ### Assets:
 
@@ -59,6 +62,9 @@ Minotaur Sprites: https://craftpix.net/freebies/free-minotaur-tiny-style-2d-spri
 
 All products under Craftpix are covered by the following license https://craftpix.net/file-licenses/
 
+Fantasy RPG Starter Weapons Pack: https://aristeidis.itch.io/fantasy-rpg-starter-weapons-pack?download
+
+Deutsch Gothic Font: https://www.dafont.com/deutsch-gothic.font
 
 ARPG Music: https://assetstore.unity.com/publishers/27795
 
